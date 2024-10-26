@@ -1,12 +1,12 @@
 ## Hi there, I'm Allan!👋
 
-I'm a second year Electrical and Computer Engineering (Engineering Science) student at the University of Toronto. 
+I'm a second-year Electrical and Computer Engineering (Engineering Science) student at the University of Toronto. 
 
-🔭 Currently working on autonomous and manual-driving RTOS firmware and high-voltage power electronics on the University of Toronto FSAE Electric team. 
-🌱 Currently learning digital design with System Verilog and FPGAs.
-👯 Previously worked on electrical and embedded systems on FRC robots as Captain of Arctos 6135 and front-end development for LifeTein and ONE800. 
+- 🔭 Currently working on autonomous and manual-driving RTOS firmware and high-voltage power electronics on the University of Toronto FSAE Electric team.  
+- 🌱 Currently learning digital design with System Verilog and FPGAs.  
+- 👯 Previously worked on electrical and embedded systems on FRC robots as Captain of Arctos 6135 and front-end development for LifeTein and ONE800.  
 
-📫 [Get in touch with me on LinkedIn!](https://www.linkedin.com/in/allanlzee/)
+📫 [Get in touch with me on LinkedIn!](https://www.linkedin.com/in/allanlzee/)  
 ⚡ [For more information, check out my website!](https://allanlzee.github.io/allan.zhou/)
 
 <!--
