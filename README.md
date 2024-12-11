@@ -4,10 +4,11 @@ I'm a second-year Electrical and Computer Engineering (Engineering Science) stud
 
 - 🔭 Currently working on autonomous and manual-driving RTOS firmware and high-voltage power electronics on the University of Toronto FSAE Electric team.  
 - 🌱 Currently learning digital design with System Verilog and FPGAs.  
-- 👯 Previously worked on electrical and embedded systems on FRC robots as Captain of Arctos 6135 and front-end development for LifeTein and ONE800.  
+- 👯 Previously worked on electrical and embedded systems on FRC robots as Captain of Arctos 6135 and front-end development for LifeTein and ONE800.
+- ⚡ Excited to be exploring electric vehicle, electronics, and high voltage systems engineering at the Engineering Design Labs this summer!
 
-📫 [Get in touch with me on LinkedIn!](https://www.linkedin.com/in/allanlzee/)  
-⚡ [For more information, check out my website!](https://allanlzee.github.io/allan.zhou/)
+📫 [Get in touch with me on LinkedIn:](https://www.linkedin.com/in/allanlzee/)  
+⚡ [For more information, check out my website: ](https://allanlzee.github.io/allan.zhou/)
 
 <!--
 **allanlzee/allanlzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
