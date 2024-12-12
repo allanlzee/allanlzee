@@ -7,8 +7,8 @@ I'm a second-year Electrical and Computer Engineering (Engineering Science) stud
 - 👯 Previously worked on electrical and embedded systems on FRC robots as Captain of Arctos 6135 and front-end development for LifeTein and ONE800.
 - ⚡ Excited to be exploring electric vehicle, electronics, and high voltage systems engineering at the Engineering Design Labs this summer!
 
-📫 [Get in touch with me on LinkedIn:](https://www.linkedin.com/in/allanlzee/)  
-⚡ [For more information, check out my website: ](https://allanlzee.github.io/allan.zhou/)
+📫 [LinkedIn](https://www.linkedin.com/in/allanlzee/)  
+⚡ [Website](https://allanlzee.github.io/allan.zhou/)
 
 <!--
 **allanlzee/allanlzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
